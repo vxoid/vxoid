@@ -1,7 +1,7 @@
-# CURVoid
+# VXOID
 I'm VOID, a Python🐍, Rust🟠, C++🔵 and Golang🔵 software engineer🧑‍💻, I'm interested in systems programming and cryptocurrency🌐🪙 as well as in machine learning, cyber security and web🌐
 
-![Profile Picture](https://avatars.githubusercontent.com/u/120710838?s=400&u=4b074b02c67fe51b4301a4b7bb95cc540a70834a&v=4)
+![Profile Picture](https://avatars.githubusercontent.com/u/120710838?s=1920&u=4b074b02c67fe51b4301a4b7bb95cc540a70834a&v=4)
 ## Skills 🧑‍💻
 - Data science
 - Machine learning (ML)
