@@ -45,7 +45,7 @@ I'm VOID, a Python🐍, Rust🟠, C++🔵 and Golang🔵 software engineer🧑�
 3. **CursedVPN (still in development btw.)**
   - Description: The project which aims to be a VPN client and server written in Rust which should probally increace packets sharing speed.
   - Technologies: Rust
-
+    
 4. **NetSPY web crawler**
   - Description: Simple `Go` web crawling library.  
   - Technologies: Go
@@ -55,3 +55,6 @@ I'm VOID, a Python🐍, Rust🟠, C++🔵 and Golang🔵 software engineer🧑�
   - Description: Simple Interpreted language, which I used to learn how binary trees works but may have a big potential.
   - Technologies: Rust
   - [Repository Link](https://github.com/CURVoid/kumi)
+
+## Contact ©️
+IG: https://www.instagram.com/vxoid.lostmyself/
