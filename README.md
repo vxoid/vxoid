@@ -14,6 +14,7 @@ I'm VOID, a Python🐍, Rust🟠, C++🔵 and Golang🔵 software engineer🧑�
 - Cryptocurrency
 - Blockchain
 - Smart Contracts
+- SEO
 ## Programming languages 🧑‍💻
 
 <p align="left">
