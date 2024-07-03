@@ -58,4 +58,11 @@ I'm VOID, a Python🐍, Rust🟠, C++🔵 and Golang🔵 software engineer🧑�
   - [Repository Link](https://github.com/CURVoid/kumi)
 
 ## Contact ©️
-IG: https://www.instagram.com/vxoid.lostmyself/
+<a href="https://www.instagram.com/vxoid.lostmyself/">
+  <img width="75" height="75" src="https://www.pngarts.com/files/11/Instagram-IG-Logo-Transparent-Image.png"/>
+</a>
+
+## Stats
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com/?user=vxoid&theme=highcontrast&hide_border=true&border_radius=5&card_width=800"/>
+</p>
