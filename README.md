@@ -1,29 +1,27 @@
 # VXOID
-I'm VOID, a Python🐍, Rust🟠 and Golang🔵 software engineer🧑‍💻, I'm interested in systems programming and cryptocurrency🌐🪙 as well as in machine learning, cyber security and web🌐
+I'm VOID, a Rust🟠/Golang🔵 software engineer🧑‍💻, I'm interested in systems programming and cryptocurrency🌐🪙 as well as in machine learning, cyber security and web🌐
 
 ![Profile Picture](https://avatars.githubusercontent.com/u/120710838?s=1920&u=4b074b02c67fe51b4301a4b7bb95cc540a70834a&v=4)
 ## Skills 🧑‍💻
-- Cybersecurity
+- Cyber Security
 - Software Engineering
-- Web Development
+- Web Development (Web2, Web3)
 - Systems Programming
-- Cryptocurrency
 - Blockchain
 - Smart Contracts
 ## Programming languages 🧑‍💻
 
 <p align="left">
 <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" width="36" height="36" alt="Rust"/>
-<img src="https://www.embarcadero.com/images/logos/logo-page/C++BUIDER_STUDIO_FINAL_ICONS_1024.png" width="36" height="36" alt="C++"/>
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png" width="36" height="36" alt="Go"/>
-<img src="https://insidehpc.com/wp-content/uploads/2016/01/Python-logo-notext.svg_.png" width="36" height="36" alt="Python"/>
 </p>
 
 ## Experience
 
 **Fiverr Software Engineering**
 - Developed and maintained features for a cloud-based storage platform.
-- Developed some Django web apps and Telegram bots.
+- Developed microservices, web apps and bots.
+- Developed smart contracts, blockchains and crypto projects.
 - [Fiverr Profile](https://www.fiverr.com/denchik1542)
 
 ## Projects 📄
