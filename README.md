@@ -3,18 +3,13 @@ I'm VOID, a Python🐍, Rust🟠, C++🔵 and Golang🔵 software engineer🧑�
 
 ![Profile Picture](https://avatars.githubusercontent.com/u/120710838?s=1920&u=4b074b02c67fe51b4301a4b7bb95cc540a70834a&v=4)
 ## Skills 🧑‍💻
-- Data science
-- Machine learning (ML)
-- Artificial Intelligence (AI)
 - Cybersecurity
 - Software Engineering
 - Web Development
 - Systems Programming
-- Cryptography
 - Cryptocurrency
 - Blockchain
 - Smart Contracts
-- SEO
 ## Programming languages 🧑‍💻
 
 <p align="left">
