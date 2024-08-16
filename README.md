@@ -1,30 +1,22 @@
 # VXOID
-I'm VOID, a Rust🟠/Golang🔵 software engineer🧑‍💻, I'm interested in systems programming and cryptocurrency🌐🪙 as well as in cyber security and web🌐
-
-![Profile Picture](https://avatars.githubusercontent.com/u/120710838?s=1920&u=4b074b02c67fe51b4301a4b7bb95cc540a70834a&v=4)
-## Skills 🧑‍💻
+Go/Rust Developer ../_>
+### Available 👇
+[Fiverr](https://www.fiverr.com/denchik1542) | [Inst](https://instagram.com/vxoid.lostmyself)
+### Skills 🧑‍💻
 - Cyber Security
-- Software Engineering
 - Web Development (Web2, Web3)
 - Systems Programming
-- Blockchain
-- Smart Contracts
-## Programming languages 🧑‍💻
+- Blockchain/Smart Contracts
+### Stats ⚡️
+![Github Stats](https://github-readme-stats.vercel.app/api?username=vxoid&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+### Programming languages 🧑‍💻
 
 <p align="left">
 <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" width="36" height="36" alt="Rust"/>
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png" width="36" height="36" alt="Go"/>
 </p>
 
-## Experience
-
-**Fiverr Software Engineering**
-- Developed and maintained features for a cloud-based storage platform.
-- Developed microservices, web apps and bots.
-- Developed smart contracts, blockchains and crypto projects.
-- [Fiverr Profile](https://www.fiverr.com/denchik1542)
-
-## Projects 📄
+### Projects 📄
 
 1. **FLAKars Arbitrage Bot**
   - Description: Developed a Solidity Arbitrage bot so it can make me some passive income now.
@@ -49,13 +41,3 @@ I'm VOID, a Rust🟠/Golang🔵 software engineer🧑‍💻, I'm interested in 
   - Description: Simple Interpreted language, which I used to learn how binary trees works but may have a big potential.
   - Technologies: Rust
   - [Repository Link](https://github.com/CURVoid/kumi)
-
-## Contact ©️
-<a href="https://www.instagram.com/vxoid.lostmyself/">
-  <img width="75" height="75" src="https://www.pngarts.com/files/11/Instagram-IG-Logo-Transparent-Image.png"/>
-</a>
-
-## Stats
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com/?user=vxoid&theme=highcontrast&hide_border=true&border_radius=5&card_width=800"/>
-</p>
