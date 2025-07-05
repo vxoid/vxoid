@@ -29,12 +29,7 @@ Python/Go Software Engineer ../_>
   - Technologies: Python, TypeScript, AI, Web3
   - [Link](https://ndini.xyz/)
 
-3. **CS skin arbitrage bot**
+3. **CS skin sniper**
   - Description: Scraping prices from different sites like cs.money and csfloat.com and abusing arbitrage opporitunities
-  - Technologies: Python, Go, Telegram Bot
-  - [Repository Link (private)](https://github.com/vxoid/csmoney_scraper)
-    
-4. **CS skin price scraper**
-  - Description: Scraping prices from different sites like cs.money and csfloat.com
-  - Technologies: Go
-  - [Repository Link](https://github.com/vxoid/csmoney_scraper)
+  - Technologies: Python, Telegram Bot
+  - [Repository Link (private)](https://github.com/vxoid/cs-skin-arbitrage-bot)
