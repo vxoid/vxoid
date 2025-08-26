@@ -1,7 +1,6 @@
 # VXOID
 Python/Go Software Engineer ../_>
 ### Available 👇
-[Fiverr](https://www.fiverr.com/denchik1542) | [TG](https://t.me/racist_f1)
 ### Skills 🧑‍💻
 - Web Development (Web2, Web3)
 - Blockchain/Smart Contracts
